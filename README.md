@@ -1,5 +1,5 @@
 Day	Week	Date	Focus	Learn (min)	PYQs (min)	Recall + log (min)	
-1	1	Fri, 09 Oct 2026	Processes, threads, process states, fork()	40	60	
+1	1	Fri, 09 Oct 2026	Processes, threads, process states, fork()	40
 2	1	Sat, 10 Oct 2026	Scheduling: FCFS, SJF, SRTF	40	60	20	120		
 3	1	Sun, 11 Oct 2026	Scheduling: Round Robin, Priority, HRRN, MLFQ	40	60	20	120		
 4	1	Mon, 12 Oct 2026	Critical section, Peterson, Test-and-Set	40	60	20	120		
