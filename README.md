@@ -1,5 +1,4 @@
-Day	Week	Date	Focus	Learn (min)	PYQs (min)	Recall + log (min)	Total (min)	Done (Y)	
-
+Day	Week	Date	Focus	Learn (min)	PYQs (min)	Recall + log (min)	Total (min)	Done 
 1	1	Fri, 09 Oct 2026	Processes, threads, process states, fork()	40	60	20	120		
 2	1	Sat, 10 Oct 2026	Scheduling: FCFS, SJF, SRTF	40	60	20	120		
 3	1	Sun, 11 Oct 2026	Scheduling: Round Robin, Priority, HRRN, MLFQ	40	60	20	120		
