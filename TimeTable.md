@@ -3,7 +3,7 @@
 **Daily split:** 40 min learn · 60 min PYQs · 20 min recall + error log
 ---------------------------------------------------------------------------
 ## Weekly Plan
-
+---------------------------------------------------------------------------
 | Week | Focus | Output |
 |---|---|---|
 | 1 | Processes, threads, scheduling (days 1-3); synchronization (days 4-6); revision (day 7) | Hand-trace 10+ Gantt charts and 10+ semaphore problems |
