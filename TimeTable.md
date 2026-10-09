@@ -1,9 +1,7 @@
 # GATE CSE: OS in 30 Days (2 hrs/day)
 ---------------------------------------------------------------------------
 **Daily split:** 40 min learn · 60 min PYQs · 20 min recall + error log
-
-
-
+---------------------------------------------------------------------------
 ## Weekly Plan
 
 | Week | Focus | Output |
