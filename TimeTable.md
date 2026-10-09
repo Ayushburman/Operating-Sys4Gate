@@ -47,7 +47,7 @@
 | 30 | Fix weak spots from error log |
 ----------------------------------------------------------------
 ## Rules
-
+----------------------------------------------------------------
 1. Learn each topic from the cheat sheet, then solve PYQs on it the same day.
 2. Log every wrong answer with its cause (concept, formula, or silly mistake). Redo the log after 7 days.
 3. Recite the formulas from memory each morning for 5 minutes.
