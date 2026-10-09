@@ -12,7 +12,7 @@
 | 4 | Full PYQ sweep by topic (days 22-26); 2 timed mocks (days 27-28); fix weak spots (days 29-30) | Error log down to near zero |
 ----------------------------------------------------------------------------
 ## Day-by-Day
-
+----------------------------------------------------------------------------
 | Day | Focus |
 |---|---|
 | 1 | Processes, threads, process states, fork() |
