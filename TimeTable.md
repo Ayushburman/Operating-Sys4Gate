@@ -10,7 +10,7 @@
 | 2 | Deadlock/Banker's (days 8-9); paging, multilevel, TLB/EMAT (days 10-13); revision (day 14) | Solve every address-bit and EMAT question type |
 | 3 | Page replacement and thrashing (days 15-17); disk scheduling and file allocation/inode (days 18-20); revision (day 21) | Tables for FIFO/LRU/OPT; full seek-time sums |
 | 4 | Full PYQ sweep by topic (days 22-26); 2 timed mocks (days 27-28); fix weak spots (days 29-30) | Error log down to near zero |
-
+----------------------------------------------------------------------------
 ## Day-by-Day
 
 | Day | Focus |
