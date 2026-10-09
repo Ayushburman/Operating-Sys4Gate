@@ -45,7 +45,7 @@
 | 28 | Timed mock 2 |
 | 29 | Fix weak spots from error log |
 | 30 | Fix weak spots from error log |
-
+----------------------------------------------------------------
 ## Rules
 
 1. Learn each topic from the cheat sheet, then solve PYQs on it the same day.
